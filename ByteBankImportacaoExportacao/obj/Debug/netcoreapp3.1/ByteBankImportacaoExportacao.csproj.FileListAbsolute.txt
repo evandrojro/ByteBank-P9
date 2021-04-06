@@ -1,0 +1,13 @@
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.csprojAssemblyReference.cache
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.AssemblyInfoInputs.cache
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.AssemblyInfo.cs
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.csproj.CoreCompileInputs.cache
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.exe
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.deps.json
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.runtimeconfig.json
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.runtimeconfig.dev.json
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.dll
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\bin\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.pdb
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.dll
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.pdb
+C:\Users\evandro\source\repos\ByteBankImportacaoExportacao\ByteBankImportacaoExportacao\obj\Debug\netcoreapp3.1\ByteBankImportacaoExportacao.genruntimeconfig.cache
